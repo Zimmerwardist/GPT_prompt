@@ -1,2 +1,2 @@
-# GPT_Promt
-GPT_Promt
+# GPT_Prompt
+GPT_Prompt
